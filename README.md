@@ -5,4 +5,5 @@ JavaScript
 ## 首页
 -轮播图，使用了Swipe这个插件，可以快速构建轮播图组件
 -二级分类菜单使用了节流，到的插件是lodash，让用户用鼠标移动到分类上时不会频繁触发鼠标移入事件
-![Alt text](c:/Users/Administrator/Desktop/%E7%AC%94%E8%AE%B0/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/1.png)
+![1](https://user-images.githubusercontent.com/113192717/229357904-6ee567db-1dba-4da1-a4a9-e84d5e98cfef.png)
+
